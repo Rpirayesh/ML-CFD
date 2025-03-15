@@ -1,16 +1,6 @@
 # ML-CFD
 Here is the Abstract and title of the paper
-Verification and validation of optimal self-supervised physics-informed neural
-
-network for heat transfer in miniature heat sinks
-Reza Pirayeshshirazinezhad1
-
-, Mahyar Pourghasemi3
-
-, Nima Fathi1,2*
-1Department of Marine Engineering Technology, Texas A&M University, Galveston, TX 77553
-2Department of J. Mike Walker’66 Mechanical Engineering, Texas A&M University, College Station, TX 77840
-3Department of Mechanical Engineering, Western New England University, Springfield, MA 01119
+Verification and validation of optimal self-supervised physics-informed neural network for heat transfer in miniature heat sinks
 
 Abstract
 A surrogate model is developed to predict the convective heat transfer coefficient of liquid sodium
